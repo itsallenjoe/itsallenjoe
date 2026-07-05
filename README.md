@@ -1,103 +1,158 @@
-# Hi, I'm Allen Joe 👋
+<div align="center">
 
-Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, Cybersecurity, and Software Development.
+# Allen Joe
 
-Currently working on building AI-powered applications, exploring Agentic AI systems, and developing solutions that solve real-world problems through technology.
+### Computer Science Engineering Student | Agentic AI Intern | Cybersecurity Enthusiast
 
----
+Building AI-powered applications, intelligent agents, and practical software solutions that solve real-world problems.
 
-## 🚀 About Me
+[LinkedIn](https://www.linkedin.com/in/allen-joe-757030328) • [Email](mailto:allenjoe9944@gmail.com)
 
-- 🎓 B.Tech Computer Science Engineering Student
-- 🤖 Agentic AI Intern at Bridgeon Solutions
-- 🔐 Former Cybersecurity Intern at CDAC
-- 💡 Interested in AI, Machine Learning, Cybersecurity, and Backend Development
-- 🌱 Continuously learning and building practical projects
-- 🎯 Goal: To become a skilled AI and Software Engineer
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## Professional Summary
 
-### Languages
-- Python
-- Java
-- C
-- C++
+I am a Computer Science Engineering student with hands-on experience in Artificial Intelligence, Machine Learning, Cybersecurity, and Software Development.
 
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
+Currently working as an Agentic AI Intern at Bridgeon Solutions, where I contribute to the development of AI-powered systems and conversational applications. My interests lie in intelligent agents, backend engineering, machine learning systems, cybersecurity, and scalable software architecture.
 
-### AI & Machine Learning
-- Machine Learning Fundamentals
-- Agentic AI
-- LangGraph
-- Ollama
-- Prompt Engineering
+I enjoy building projects that combine technical depth with real-world impact.
 
-### Tools & Technologies
-- Git & GitHub
-- FastAPI
-- VS Code
-- ChromaDB
-- Whisper
-- SQLite
+---
+
+## Experience
+
+### Agentic AI Intern | Bridgeon Solutions
+- Working on AI-powered voice and conversational systems
+- Exploring Agentic AI workflows and orchestration
+- Building solutions using FastAPI, LangGraph, RAG, and LLMs
+- Developing scalable AI applications for real-world use cases
+
+### Cybersecurity Intern | CDAC
+- Worked with cybersecurity tools and methodologies
+- Performed network analysis and security assessments
+- Gained practical exposure to security fundamentals and best practices
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+Python • Java • C • C++
+
+### Web Development
+
+HTML • CSS • JavaScript
+
+### Artificial Intelligence & Machine Learning
+
+Machine Learning  
+Agentic AI  
+LangGraph  
+Prompt Engineering  
+Retrieval-Augmented Generation (RAG)
+
+### Backend & Databases
+
+FastAPI  
+SQLite  
+ChromaDB
+
+### Developer Tools
+
+Git  
+GitHub  
+VS Code
 
 ### Cybersecurity
-- Wireshark
-- Burp Suite
+
+Wireshark  
+Burp Suite  
+Nmap  
+Network Security Fundamentals
+
+---
+
+## Featured Projects
+
+### Bridgeon Voice AI Advisor
+
+An AI-powered multilingual voice assistant designed to provide information, support users, and streamline interactions through natural conversations.
+
+**Tech Stack**
+
+- FastAPI
+- LangGraph
+- Whisper
+- ChromaDB
+- Ollama
+- Piper TTS
+
+---
+
+### Financial Crime Detection System
+
+A machine learning-based system for detecting suspicious financial transactions and identifying potential fraud patterns using predictive analytics.
+
+**Tech Stack**
+
+- Python
+- Scikit-Learn
+- Pandas
+- NumPy
+- Machine Learning
+
+---
+
+### Cybersecurity Toolkit
+
+A collection of cybersecurity utilities designed for network reconnaissance, analysis, and security assessment.
+
+**Tech Stack**
+
+- Python
 - Nmap
-- Security Fundamentals
+- Networking Concepts
 
 ---
 
-## 📌 Featured Projects
+## Current Focus
 
-### 🤖 Bridgeon Voice AI Advisor
-A multilingual voice-enabled AI assistant designed to help users explore courses, services, and opportunities offered by Bridgeon.
-
-**Tech Stack:** FastAPI, Whisper, Ollama, Piper, LangGraph, ChromaDB
-
----
-
-### 💳 Financial Crime Detection Using Machine Learning
-A machine learning system developed to identify suspicious financial activities and improve fraud detection accuracy.
-
-**Tech Stack:** Python, Scikit-Learn, Pandas, NumPy
-
----
-
-### 🎨 Colour Blindness Simulation System
-A software solution that simulates different types of color vision deficiencies to improve accessibility awareness.
-
----
-
-## 📚 Currently Learning
-
-- Advanced Machine Learning
+- AI Agents & Multi-Agent Systems
 - Retrieval-Augmented Generation (RAG)
-- AI Agent Architectures
-- Cloud Computing
+- Machine Learning
+- Backend Engineering
+- Cloud Technologies
 - System Design
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsallenjoe&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 🤝 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/allen-joe-757030328
-
-📧 Open to internships, collaborations, and learning opportunities.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsallenjoe&layout=compact&hide_border=true)
 
 ---
 
-> "Technology becomes meaningful when it solves real problems and creates opportunities for people."
+## Goals for 2026
+
+- Build production-ready AI applications
+- Strengthen Machine Learning expertise
+- Contribute to open-source projects
+- Expand knowledge in cloud and distributed systems
+- Secure a Software Engineering or AI Engineering role
+
+---
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/allen-joe-757030328
+- Email: allenjoe9944@gmail.com
+
+---
+
+> "The best way to learn technology is to build with it."
