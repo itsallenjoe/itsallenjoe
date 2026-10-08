@@ -20,7 +20,7 @@
 
 I'm a **Computer Science Engineering student** with hands-on experience across **Artificial Intelligence, Machine Learning, Cybersecurity, and Software Development**.
 
-Currently working as an **Agentic AI Intern at Bridgeon Solutions**, where I contribute to AI-powered systems and conversational applications. I'm particularly interested in building intelligent agents, backend systems, RAG pipelines, and scalable software architectures.
+Worked as an **Agentic AI Intern at Bridgeon Solutions**, where I contribute to AI-powered systems and conversational applications. I'm particularly interested in building intelligent agents, backend systems, RAG pipelines, and scalable software architectures.
 
 I enjoy building projects that combine **technical depth with real-world impact**.
 
